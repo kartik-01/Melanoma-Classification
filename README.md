@@ -1,8 +1,6 @@
 # Melanoma-Classification
-CNN Model to detect benign or malignant skin cancer types
 
-Melanoma-Classification
-Kaggle competition - SIIM-ISIC Melanoma Classification
+Kaggle competition - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview)
 
 IEEE Xplore link - https://ieeexplore.ieee.org/document/9544656
 
